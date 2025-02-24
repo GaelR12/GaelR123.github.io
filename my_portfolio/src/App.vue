@@ -17,3 +17,6 @@ main {
   padding: 2rem;
 }
 </style>
+
+<!-- so why does nothing show up when i load in my .io ones i deployed i have commited files but it does not show up in the pages
+ -->
