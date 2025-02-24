@@ -18,4 +18,3 @@ main {
 }
 </style>
 
-<!-- so why does nothing show up when I load in my .io ones I deployed I have committed files but it does not show up in the pages -->
