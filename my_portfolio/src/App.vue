@@ -18,5 +18,4 @@ main {
 }
 </style>
 
-<!-- so why does nothing show up when i load in my .io ones i deployed i have commited files but it does not show up in the pages
- -->
+<!-- so why does nothing show up when I load in my .io ones I deployed I have committed files but it does not show up in the pages -->

@@ -1,0 +1,15 @@
+{
+    "eslintConfig": {
+      "env": {
+        "node": true,
+        "browser": true
+      },
+      "globals": {
+        "__dirname": "readonly",
+        "module": "readonly",
+        "require": "readonly",
+        "process": "readonly"
+      }
+    }
+  }
+  
